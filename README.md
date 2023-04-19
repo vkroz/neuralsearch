@@ -1,3 +1,3 @@
-# Open-source alternatives for ChatGPT
+# Semantic Search engine 
 
-Collection of publicly accessible alternatives for Open.AI models (ChatGPT, GPT-x, etc)
+Next generation of search engines that utilize large language models and deep neural networks to find exactly what users a looking for. 
